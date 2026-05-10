@@ -8,7 +8,7 @@ This is a farewell gift for my friend to commemorate our life in Melbourne. It's
 
 **Demo Video**: https://youtu.be/LcSbfyCi86A
 
-![Project Overview](Imgs/overview.jpg)
+![Project Demo](Imgs/demo.gif)
 
 This project involves multiple steps including 3D printing, electronic soldering, and microcontroller programming. In the following text, I will explain how to build this project.
 

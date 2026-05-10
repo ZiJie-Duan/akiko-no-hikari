@@ -6,7 +6,7 @@
 
 **效果展示视频**：https://youtu.be/LcSbfyCi86A
 
-![项目概览](Imgs/overview.jpg)
+![项目演示](Imgs/demo.gif)
 
 这个项目是一个涉及3D打印，电子焊接，单片机编程等多步骤的项目。我会在接下来的文本中介绍如何构建这个项目。
 
